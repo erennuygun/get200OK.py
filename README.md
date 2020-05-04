@@ -3,6 +3,6 @@
 
 usage:
 
-        python get200ok.py -w <wordlist.txt>
+        python3 get200ok.py -w <wordlist.txt>
 
 
